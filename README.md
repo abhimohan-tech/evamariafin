@@ -48,7 +48,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 
 ## Deploy to Railway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1-97qx)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/IYIOA9)
 
 ## Deploy
 You can deploy this bot anywhere.
